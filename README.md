@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://irusselj.tech/](https://irusselj.tech/)
+- 👨‍💻 All of my projects are available at https://russelj91.github.io/vite/
 
 - 💬 Ask me about **Bootstrap**
 
